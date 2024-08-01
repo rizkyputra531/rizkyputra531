@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Rizky!
 
-#### I'm a Full-Stack Developer working in Banjarmasin, Indonesia.
+#### I'm a Full-Stack Developer and IT Specialyst working in Banjarmasin, Indonesia.
 
 ##### BIO
 

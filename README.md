@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Eddy!
+# Hi there 👋 , I'm Rizky!
 
 #### I'm a Full-Stack Developer working in Banjarmasin, Indonesia.
 
@@ -53,10 +53,4 @@ background in multiple industries.
 </p>
 
 
-## Let's connect!
-<p>
-    <a href="https://www.eddyyucca.com" target="blank"> <img src="https://img.shields.io/badge/Website-https://eddyyucca.com-green?" /></a>
-    <a href="https://twitter.com/eddy_adha_s" target="blank"><img src="https://img.shields.io/badge/@eddy_adha_s-30302f?style=flat&logo=twitter" /></a>
-</p>
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eddyyucca/)
